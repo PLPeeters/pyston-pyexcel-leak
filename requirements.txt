@@ -1,0 +1,2 @@
+pyexcel~=0.6.7
+pyexcel-io~=0.6.5
