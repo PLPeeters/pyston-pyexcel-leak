@@ -1,4 +1,4 @@
-FROM --platform=linux/amd64 pyston/slim:2.3.1
+FROM --platform=linux/amd64 pyston/slim:2.3.2
 # FROM --platform=linux/amd64 python:3.8
 # ^ Replacing the image fixes the leak
 
